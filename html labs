@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>HTML Labs</title>
+        <link rel="stylesheet"href="Index.css">
+        
+        <h1>Sierra Stark</h1>
+    </head>
+    <p>
+        <body>
+             <ul>
+                 <li><a href="STARK_coretags.html">Core Tags</a></li>
+                 <li><a href="STARK_TextTags.html">Using Text Tags</a></li>
+                 <li><a href="StarkSierra_recipe.html">A Simple Recipe</a></li>
+                 <li><a href="Stark_cats-index.html">A Simple Website</a></li>
+                 <li><a href="Stark_InternetCats.html">Explore CSS</a></li>
+        </body>
+    </p>
+</html>
